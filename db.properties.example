@@ -1,0 +1,4 @@
+user=root
+password=your_password_here
+dburl=jdbc:mysql://localhost:3306/jdbc_java?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+useSSL=false
