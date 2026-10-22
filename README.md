@@ -6,6 +6,8 @@ O domínio simula um sistema simples de departamentos e vendedores (`Department`
 
 Para rodar o projeto é necessário ter uma instância MySQL disponível, com o banco criado a partir do script [create-database.sql](create-database.sql), além de um arquivo `db.properties` na raiz com as credenciais de acesso a esse banco.
 
+**Os dados utilizados neste projeto são fictícios e destinados exclusivamente a fins de demonstração.**
+
 ## Tecnologias
 
 - Java 17
