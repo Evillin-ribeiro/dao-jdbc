@@ -35,7 +35,7 @@ public class Program {
 
 		System.out.println("\n========== UPDATE ==========");
 		Department dep2 = departmentDao.findById(1);
-		dep2.setName("Ana Luiza Ferreira de Souza");
+		dep2.setName("QA");
 		departmentDao.update(dep2);
 		System.out.println("Update completed");
 		
