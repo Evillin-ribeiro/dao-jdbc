@@ -1,4 +1,4 @@
-# DAO JDBC - Exercício MySQL
+# DAO JDBC - MySQL
 
 Projeto de estudo em Java que implementa o padrão **DAO (Data Access Object)** para persistência de dados usando **JDBC** puro e **MySQL**, sem uso de frameworks ORM.
 
